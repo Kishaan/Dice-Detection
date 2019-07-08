@@ -12,3 +12,5 @@ Libraries used:
 * Scipy
 * Numpy
 * matplotlib
+
+A comprehensive discussion of the approach and evaluation results can be found in the project-report.pdf file.
