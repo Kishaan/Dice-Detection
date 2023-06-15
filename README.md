@@ -6,6 +6,8 @@ Input: Video files of a hand throwing some dice on a tray which is kept on a tab
 
 Output: Detection of every dice location and the number of pips on the top face of each die after they settle down on the tray
 
+![sample output of the code](https://github.com/Kishaan/Dice-Detection/blob/master/images/cluster2.png?raw=true)
+
 Libraries used:
 
 * OpenCV
